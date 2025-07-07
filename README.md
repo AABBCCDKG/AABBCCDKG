@@ -1,20 +1,12 @@
-Hi👋 I am an undergraduate student pursuing a Bachelor’s Degree in Computer Science at the College of Science, Purdue University, West Lafayette. 
+Hi 👋 I'm an undergraduate student majoring in Computer Science at Purdue University. Before transferring to Purdue, I studied Electrical and Computer Engineering at Northeastern University (China) for one year and a half.
 
-I led a project titled "[Video Prediction through Physical Laws](https://github.com/AABBCCDKG/Video_prediction_through_physical_laws)" under the guidance of Ph.D. candidate [Max](https://www.cs.purdue.edu/people/graduate-students/jacobs57.html) and Assistant Professor [Yexiang Xue](https://www.cs.purdue.edu/homes/yexiang/) during the summer 2024. Existing models for prediction often need large datasets and struggle with complex motions, especially with limited data. We present a framework for predicting object motion by leveraging known physical laws to reduce the reliance on large datasets and enhances the model’s ability to predict complex and abrupt motions.
+I’ve interned at Amazon AWS (upcoming) and the Bank of China as a Software Engineer. I’ve also conducted [research](https://royal-celestite-49a.notion.site/Motion-Prediction-through-Physical-Laws-b75fba68cf2f414e9ebd9f84c0db00d7) on physics-informed deep learning under [Prof. Yexiang Xue](https://www.cs.purdue.edu/homes/yexiang/) at Purdue AI Lab, joined the Purdue Aerial Robotics Team, and participated in Y Combinator’s AI Startup School.
 
-I have joined the [Vertically Integrated Program](https://engineering.purdue.edu/VIP) since January 2024, where I worked with the Purdue Aerial Robotics Team under the IEEE chapter's PART committee. I introduced hand-drawn sketches as a more precise input method for drone-based item transport, trained a GAN-based neural network for image-to-sketch conversion.
+---
 
-Before transferring to Purdue University, I studied Communication Engineering at Northeastern University (China) for one year and a half. There, I had the honor of serving as a Teaching Assistant under the guidance of [Dr. Peng Han](https://graduate.neuq.edu.cn/info/1016/4552.htm) in Fall 2023.
+🌱 **Selected Personal Projects:**
 
-🌱 So far, I have attempted some interesting personal projects, such as:
-
-- [EchoGen](https://github.com/AABBCCDKG/EchoGen): An iterative optimization system that refines LLM-generated results through iterative feedback.
-- [SmartGA](https://github.com/AABBCCDKG/LLM-guided_GA_for_function_fitting): Using LLM to guide the direction of the evolution of the Genetic Algorithm.
-- [SketchTune](https://github.com/AABBCCDKG/clip_on_sketch): Fine-tuning the CLIP model on the sketch (The Sketchy Database).
-- [Gmaillm](https://github.com/AABBCCDKG/gmaillm): Utilizing LLM to summarize important Gmail messages and discard irrelevant ones.
-
-
-<!---
-AABBCCDKG/AABBCCDKG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔁 [EchoGen](https://github.com/AABBCCDKG/EchoGen): An iterative optimization framework that refines LLM outputs through multi-round feedback.
+- 🧬 [SmartGA](https://github.com/AABBCCDKG/LLM-guided_GA_for_function_fitting): Uses LLMs to guide the evolutionary direction of Genetic Algorithms for function fitting.
+- ✏️ [SketchTune](https://github.com/AABBCCDKG/clip_on_sketch): Fine-tuned the CLIP model on the Sketchy database to improve sketch-image retrieval.
+- 📬 [Gmaillm](https://github.com/AABBCCDKG/gmaillm): An AI-powered Gmail assistant that summarizes important messages and filters out noise.
