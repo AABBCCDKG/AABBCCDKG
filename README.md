@@ -2,8 +2,6 @@ Hi 👋 I'm an undergraduate student majoring in Computer Science at Purdue Univ
 
 I’ve interned at Amazon AWS (upcoming) and the Bank of China as a Software Engineer. I’ve also conducted [research](https://royal-celestite-49a.notion.site/Motion-Prediction-through-Physical-Laws-b75fba68cf2f414e9ebd9f84c0db00d7) on physics-informed deep learning under [Prof. Yexiang Xue](https://www.cs.purdue.edu/homes/yexiang/) at Purdue AI Lab, joined the Purdue Aerial Robotics Team, and participated in Y Combinator’s AI Startup School.
 
----
-
 🌱 **Selected Personal Projects:**
 
 - 🔁 [EchoGen](https://github.com/AABBCCDKG/EchoGen): An iterative optimization framework that refines LLM outputs through multi-round feedback.
