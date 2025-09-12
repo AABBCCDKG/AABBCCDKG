@@ -1,4 +1,4 @@
-Hi 👋 I'm an undergraduate student majoring in Computer Science at Purdue University. Before transferring to Purdue, I studied Electrical and Computer Engineering at Northeastern University (China) for one year and a half.
+Hi 👋 I’m a Computer Science undergraduate at Purdue University, where I completed 93% of the degree requirements in 1.5 years. Before Purdue, I studied Electrical and Computer Engineering at Northeastern University (China) (Sep 2022 – Dec 2023).
 
 I’ve interned at Amazon AWS and the Bank of China as a Software Engineer. I’ve also conducted [research](https://royal-celestite-49a.notion.site/Motion-Prediction-through-Physical-Laws-b75fba68cf2f414e9ebd9f84c0db00d7) on physics-informed deep learning under [Prof. Yexiang Xue](https://www.cs.purdue.edu/homes/yexiang/) at Purdue AI Lab, joined the Purdue Aerial Robotics Team, and participated in Y Combinator’s AI Startup School.
 
